@@ -1,14 +1,14 @@
 {
-  "name": "GitHub",
+  "name": "mybrary",
   "version": "1.0.0",
-  "description": "",
+  "description": "An app to simulate an online library",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "devStart": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Quentin Boitel",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
